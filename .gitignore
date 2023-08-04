@@ -1,0 +1,5 @@
+server/env.json
+server/server.exe
+server/ngl.db
+client/dist
+client/node_modules
